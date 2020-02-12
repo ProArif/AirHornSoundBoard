@@ -30,13 +30,15 @@
                     android:layout_height="50dp"
                     android:src="@drawable/olivin_logo"
                     android:layout_gravity="center"/>
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:gravity="center"
                     android:text="OLIVINE Ltd"
                     android:textSize="30sp"
-                    android:gravity="center"
-                    android:textStyle="bold"/>
+                    android:textStyle="bold" />
+
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -53,7 +55,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Mahbub Hasan \n Mozammel Haque Shanin \nMizbahul Ferdous\nProloy Chandra Deb"
+                    android:text="Mahbub Hasan \n Mozammel Hoque Shaheen \nMizbahul Ferdous\nProloy Chandra Deb"
                     android:textSize="16sp"
                     android:id="@+id/tvCredit"
                     android:textAlignment="center"/>
@@ -80,7 +82,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Shammi Akter"
+                    android:text="Taohid Hossen Tamim\nShammi Akter"
                     android:textSize="16sp"
                     android:textAlignment="center"/>
                 <TextView
